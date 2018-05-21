@@ -33,3 +33,7 @@ img{
     border-width: 5px;
     border-color: rgb(156, 172, 166)
 }
+
+h2 p{
+    font-size: 20em;
+}
