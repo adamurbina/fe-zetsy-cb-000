@@ -27,12 +27,12 @@ h1{
     font-size: 80px;
     color: rgb(156, 172, 166);
     border-bottom: 1px rgb(156, 172, 166) solid;
+    padding-bottom: 4px;
 }
 
 #main-pic img{
     border: solid;
     border-width: 5px;
-    padding: 10px;  
     border-color: rgb(156, 172, 166);
 }
 
