@@ -50,3 +50,7 @@ p{
 #links img{
     border: 5px #ccc solid;
 }
+
+footer{
+    float: right;
+}
