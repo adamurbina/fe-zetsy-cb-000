@@ -27,3 +27,8 @@ h1{
     font-size: 80px;
     color: rgb(156, 172, 166);
 }
+
+h1 img{
+    border: 3px;
+    border-color: rgb(156, 172, 166)
+}
