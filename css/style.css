@@ -43,5 +43,5 @@ p{
 }
 
 #links img{
-    padding: 5px;
+    border: 5px #ccc solid;
 }
