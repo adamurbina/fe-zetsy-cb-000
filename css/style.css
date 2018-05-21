@@ -28,13 +28,13 @@ h1{
     color: rgb(156, 172, 166);
     border-bottom: 1px rgb(156, 172, 166) solid;
     padding-bottom: 10px;
+    margin: 0;
 }
 
 #main-pic img{
     border: solid;
     border-width: 5px;
     border-color: rgb(156, 172, 166);
-    margin: 0;
 }
 
 h2{
