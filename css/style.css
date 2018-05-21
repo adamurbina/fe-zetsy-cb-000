@@ -29,6 +29,6 @@ h1{
 }
 
 h1 img{
-    border: 3px;
-    border-color: rgb(156, 172, 166)
+    border: 10px;
+    border-color: rgb(156, 172, 166);
 }
