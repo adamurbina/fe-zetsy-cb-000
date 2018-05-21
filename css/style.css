@@ -39,12 +39,13 @@ h1{
 }
 
 h2{
-    color: #555;
-    font-size: 30px;
+    color: rgb(111,127,122);
+    font-size: 2em;
 }
 
 p{
     color: #555;
+    font-size: 1em;
 }
 
 #links{
