@@ -55,7 +55,7 @@ p{
     border: 5px #ccc solid;
 }
 
-footer #end {
+#end footer {
     float: right;
     font-size: 0.8em;
     color: #555;
