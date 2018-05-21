@@ -26,6 +26,7 @@ h1{
     font-family: 'Baskerville', serif;
     font-size: 80px;
     color: rgb(156, 172, 166);
+    border-bottom: 1px rgb(156, 172, 166) solid;
 }
 
 #main-pic img{
