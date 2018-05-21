@@ -29,7 +29,6 @@ h1{
 }
 
 h1 img{
-    border: solid;
-    border-width: medium;
+    border: 20px solid;
     border-color: rgb(156, 172, 166);
 }
